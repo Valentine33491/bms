@@ -40,3 +40,14 @@ Linux.
 для запуска на ПК с Windows 11 или Linux (Ubuntu/Debian).
 
 При этом ПК должен иметь Bluetooth интерфейс.
+
+## Источники
+Поскольку официальной документации нет, то мы воспользуемся плодами 
+обратной разработки энтузиастов.
+
+Источники информации для разработки собственных программ:
+
+* https://github.com/syssi/esphome-jk-bms/blob/main/docs/protocol-design-ble.md
+* https://github.com/syssi/esphome-jk-bms/discussions/321
+* https://github.com/fl4p/batmon-ha
+* https://github.com/jblance/jkbms
